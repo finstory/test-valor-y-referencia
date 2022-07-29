@@ -1,0 +1,19 @@
+{
+  "name": "cp-m3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Henry",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "standard": {
+    "env": [
+      "mocha"
+    ]
+  }
+}
