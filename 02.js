@@ -32,6 +32,6 @@ console.log(listAfter)   // ! |  [ { num: 1 }, { num: 2 } ]
 // ! Es decir, como CLONAMOS, ahora los puntermos de memoria de cada objeto son diferentes.
 
 // $ - Prueba json.
-// console.log(JSON.stringify(listBefore));
-// console.log(JSON.stringify(listAfter));
+console.log(JSON.stringify(listBefore));
+console.log(JSON.stringify(listAfter));
 
