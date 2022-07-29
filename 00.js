@@ -28,8 +28,8 @@ console.log(listAfter[0])   // ! | 99;
 
 
 // $ - Prueba json.
-// console.log(JSON.stringify(listBefore));
+console.log(JSON.stringify(listBefore));
 console.log(JSON.stringify(listAfter));
 
 // * - Probemos que es un string con typeof.
-// console.log("Es un",typeof JSON.stringify(listBefore));
+console.log("Es un",typeof JSON.stringify(listBefore));
